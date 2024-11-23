@@ -1,5 +1,5 @@
 # 💫 About Me:
-Education: UG Y23 in Mathematics and Statistics Department at IIT Kanpur.<br>Career Goals: Aspiring Software Development Engineer (SDE) and Machine Learning Engineer (ML Engineer).<br>Interests: Currently learning and enhancing skills in software development and machine learning.<br>Collaboration: Open to collaborating on problem-solving projects.<br>Fun Fact: A deeply motivated and enthusiastic problem solver
+Code Name : Vortexial <br>Education: UG Y23 in Mathematics and Statistics Department at IIT Kanpur.<br>Career Goals: Aspiring Software Development Engineer (SDE) and Machine Learning Engineer (ML Engineer).<br>Interests: Currently learning and enhancing skills in software development and machine learning.<br>Collaboration: Open to collaborating on problem-solving projects.<br>Fun Fact: A deeply motivated and enthusiastic problem solver
 
 
 ## 🌐 Socials:
